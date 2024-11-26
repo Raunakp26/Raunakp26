@@ -2,7 +2,7 @@
 -👀 I’m interested in Web Development, Backend Development, and Data Structures & Algorithms (DSA).
 -🌱 I’m currently learning Backend Development and sharpening my skills in DSA.
 -💞️ I’m looking to collaborate on web development projects, especially ones that involve solving real-world problems.
--📫 How to reach me: You can connect with me via LinkedIn https://www.linkedin.com/in/raunak-pandey-393830250
+-📫  You can connect with me via LinkedIn https://www.linkedin.com/in/raunak-pandey-393830250
 
 
 <!---
